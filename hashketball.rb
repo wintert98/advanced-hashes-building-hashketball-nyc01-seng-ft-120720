@@ -25,7 +25,7 @@ game_hash = {
       :blocks =>,
       :slam_dunks =>
     }, {
-      :player_name => "",
+      :player_name => "Brook Lopez",
       :number =>,
       :shoe =>,
       :points =>,
